@@ -1,4 +1,4 @@
-import {links} from './links.js';
+import {links} from 'links.js';
 const linksContainer=document.querySelector('.linkcontainer');
 function addLink(name,link,image){
   return `<ul class="linkcontainer">
