@@ -5,6 +5,7 @@
 }
 body {
     font-size: 15pt;
+    font-family: 'Open Sans', sans-serif;
     display: flex;
     flex-direction: column;
     justify-content: center;
