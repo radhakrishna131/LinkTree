@@ -25,7 +25,7 @@ No frameworks — just simple, clean code.�
 📥 How to Use / Customize
 Clone or download this repository
 
-git clone https://github.com/yourusername/LinkTree.git
+git clone https://github.com/radhakrishna131/LinkTree.git
 Open the project folder in your editor.
 Edit the links and profile details in index.html:
 Your name
