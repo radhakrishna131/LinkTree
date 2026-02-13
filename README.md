@@ -11,7 +11,7 @@ This project is a lightweight HTML, CSS & JS page that shows your name, profile 
 ✔️ Fully static — no backend required
 ✔️ Easy to customize your links
 ✔️ Works on any device & screen size
-✔️ Hosted for free using GitHub Pages �
+✔️ Hosted for free using GitHub Pages 
 
 
 🛠️ Technologies
@@ -19,7 +19,7 @@ This project uses only:
 HTML
 CSS
 JavaScript
-No frameworks — just simple, clean code.�
+No frameworks — just simple, clean code.
 
 
 📥 How to Use / Customize
@@ -36,4 +36,4 @@ Preview locally with Live Server (optional) or just open index.html in your brow
 
 
 ❤️ Contribution
-This is a small personal project — but feel free to fork, tweak styles, add new features, or improve the design! �
+This is a small personal project — but feel free to fork, tweak styles, add new features, or improve the design! 
